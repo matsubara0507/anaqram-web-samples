@@ -17,3 +17,11 @@ $ cd step1 && elm make src/Main.elm --output ../docs/step1/static/main.js
 ```
 $ cd step2 && elm make src/Main.elm --output ../docs/step2/static/main.js
 ```
+
+## Step3. パズルゲームを作る
+
+[サンプル](https://matsubara0507.github.io/anaqram-web-samples/step3)
+
+```
+$ cd step3 && elm make src/Main.elm --output ../docs/step3/static/main.js
+```
